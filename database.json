@@ -1,6 +1,24 @@
 {
+  "workspace": {
+    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
+      "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
+      "1706622000660"
+    ]
+  },
   "studio-open-web": {},
+  "MenueSettings": {
+    "printCSG": true
+  },
+  "studio-open-git": {
+    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:printbed.json": [
+      "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
+      "printbed.json"
+    ]
+  },
   "BowlerStudioConfigs": {
+    "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
+    "tutorialBranch": "deploy",
+    "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 12.0,
     "skinBranch": "0.25.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
