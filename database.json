@@ -9,12 +9,7 @@
   "MenueSettings": {
     "printCSG": true
   },
-  "studio-open-git": {
-    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:printbed.json": [
-      "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
-      "printbed.json"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
