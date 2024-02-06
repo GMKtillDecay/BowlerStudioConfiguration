@@ -8,6 +8,10 @@
       "https://gist.github.com/3f9fef17b23acfadf3f7.git",
       "1707233816305"
     ],
+    "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git": [
+      "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git",
+      "1707234688215"
+    ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group08.git": [
       "BancroftKineticSystemsClass/KineticSystems2024Group08",
       "1706623348394"
@@ -25,6 +29,10 @@
     "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
       "https://gist.github.com/3f9fef17b23acfadf3f7.git",
       "servo.groovy"
+    ],
+    "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git:servoHorn.groovy": [
+      "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git",
+      "servoHorn.groovy"
     ]
   },
   "BowlerStudioConfigs": {
