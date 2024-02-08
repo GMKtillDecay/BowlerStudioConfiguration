@@ -26,16 +26,16 @@
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group08.git",
       "Nametag.groovy"
     ],
-    "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
-      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
-      "servo.groovy"
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group08.git:simpleRobot.xml": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group08.git",
+      "simpleRobot.xml"
     ]
   },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 32.0,
+    "fontsize": 24,
     "skinBranch": "0.25.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
