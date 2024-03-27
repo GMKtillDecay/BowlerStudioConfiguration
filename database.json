@@ -37,6 +37,10 @@
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group08.git:simpleRobot.xml": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group08.git",
       "simpleRobot.xml"
+    ],
+    "https://github.com/GMKtillDecay/MotomanGPB.git:MotomanGPB.xml": [
+      "https://github.com/GMKtillDecay/MotomanGPB.git",
+      "MotomanGPB.xml"
     ]
   },
   "BowlerStudioConfigs": {
