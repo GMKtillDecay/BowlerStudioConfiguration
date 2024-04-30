@@ -41,6 +41,10 @@
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group08.git:simpleRobotCad.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group08.git",
       "simpleRobotCad.groovy"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group08.git:simpleRobot.xml": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group08.git",
+      "simpleRobot.xml"
     ]
   },
   "BowlerStudioConfigs": {
